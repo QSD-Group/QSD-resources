@@ -33,6 +33,7 @@ Energy/Chemical Engineering
 Other Curated Lists
 -------------------
 #. `Industrial Ecology Dashborad <https://github.com/IndEcol/Dashboard>`_, the Dashboard includes some life cycle assessment (LCA) repositories, but some more LCA-focused ones:
+
 	#. `calculator <https://github.com/romainsacchi/carculator>`_ for prospective environmental and economic life cycle assessment of vehicles
 	#. Notes for a `Brightway2 <https://github.com/brightway-lca/brightway2>`_ (framework for advanced life cycle assessment calculations) `seminar <https://github.com/PoutineAndRosti/Brightway-Seminar-2017>`_
 	
