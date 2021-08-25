@@ -19,8 +19,8 @@ Water/wastewater/sanitation
 	#. `Plant-wide models <https://github.com/wwtmodels/Plant-Wide-Models>`_
 	#. `System-wide models <https://github.com/wwtmodels/System-Wide-Models>`_
 	
-#. Eawag `aerobic granular sludge model <https://www.eawag.ch/en/department/eng/projects/abwasser/ags-aerobic-granular-slugde-model/>`_ (requires SUMO, includes R scripts for analysis/plotting and Python script for repetitive SUMO runs).
-#. Eawag `Technology Appropriateness Assessment (TechAppA) model <https://github.com/Eawag-SWW/TechAppA>`_ for the quantification of the appropriateness of technologies (techs) in a given context (case) considering uncertainties
+#. Eawag `wastewater models <https://opendata.eawag.ch/organization/wastewater>`_, such as `aerobic granular sludge model <https://www.eawag.ch/en/department/eng/projects/abwasser/ags-aerobic-granular-slugde-model/>`_ (requires SUMO, includes R scripts for analysis/plotting and Python script for repetitive SUMO runs).
+#. Eawag `technology appropriateness assessment (TechAppA) model <https://github.com/Eawag-SWW/TechAppA>`_ for the quantification of the appropriateness of technologies (techs) in a given context (case) considering uncertainties
 #. Eawag `SWMM-HEAT model <https://github.com/Eawag-SWW/EAWAG-SWMM-HEAT>`_ for simulation of heat- and hydraulic processes in sewers.
 
 
