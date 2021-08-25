@@ -10,6 +10,7 @@ Process Simulation
 Water/wastewater/sanitation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. Water/astewater treatment models (requires MATLAB) established/compiled by the `PROSYS center at the Technical University of Denmark <https://www.kt.dtu.dk/english/research/prosys>`_ and the `IEA division at the Lund University <https://iea.lth.se/>`_, including (check the the repository for the most-up-to-date list of models):
+
 	#. `Activated sludge models <https://github.com/wwtmodels/Activated-Sludge-Models>`_
 	#. `Anaerobic digestion models <https://github.com/wwtmodels/Anaerobic-Digestion-Models>`_
 	#. `Benchmark simulation models <https://github.com/wwtmodels/Anaerobic-Digestion-Models>`_
@@ -17,6 +18,7 @@ Water/wastewater/sanitation
 	#. `WWTP influent generators <https://github.com/wwtmodels/Influent-Generator-Models>`_
 	#. `Plant-wide models <https://github.com/wwtmodels/Plant-Wide-Models>`_
 	#. `System-wide models <https://github.com/wwtmodels/System-Wide-Models>`_
+	
 #. Eawag `aerobic granular sludge model <https://www.eawag.ch/en/department/eng/projects/abwasser/ags-aerobic-granular-slugde-model/>`_ (requires SUMO, includes R scripts for analysis/plotting and Python script for repetitive SUMO runs).
 #. Eawag `Technology Appropriateness Assessment (TechAppA) model <https://github.com/Eawag-SWW/TechAppA>`_ for the quantification of the appropriateness of technologies (techs) in a given context (case) considering uncertainties
 #. Eawag `SWMM-HEAT model <https://github.com/Eawag-SWW/EAWAG-SWMM-HEAT>`_ for simulation of heat- and hydraulic processes in sewers.
