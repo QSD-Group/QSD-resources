@@ -9,7 +9,7 @@ Process Simulation
 ------------------
 Water/wastewater/sanitation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-#. Water/astewater treatment models (requires MATLAB) established/compiled by the `PROSYS center at the Technical University of Denmark <https://www.kt.dtu.dk/english/research/prosys>`_ and the `IEA division at the Lund University <https://iea.lth.se/>`_, you can find technical reports and more information about these models `here <https://wwtmodels.pubpub.org>`, published models include (check the the website for the most-up-to-date list of models):
+#. Water/astewater treatment models (requires MATLAB) established/compiled by the `PROSYS center at the Technical University of Denmark <https://www.kt.dtu.dk/english/research/prosys>`_ and the `IEA division at the Lund University <https://iea.lth.se/>`_, you can find technical reports and more information about these models `here <https://wwtmodels.pubpub.org>`_, published models include (check the the website for the most-up-to-date list of models):
 
 	#. `Activated sludge models <https://github.com/wwtmodels/Activated-Sludge-Models>`_
 	#. `Anaerobic digestion models <https://github.com/wwtmodels/Anaerobic-Digestion-Models>`_
