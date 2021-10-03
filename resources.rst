@@ -1,6 +1,6 @@
-============================================
-Free and Open-Source Repositories and Models
-============================================
+==============================
+Free and Open-Source Resources
+==============================
 
 A laundary list of other QSD-relevant FOS resources, some repositories/models may appear in more than one list, but better to repeat than miss :).
 
@@ -19,9 +19,10 @@ Water/wastewater/sanitation
 	#. `Plant-wide models <https://github.com/wwtmodels/Plant-Wide-Models>`_
 	#. `System-wide models <https://github.com/wwtmodels/System-Wide-Models>`_
 	
-#. Eawag `wastewater models <https://opendata.eawag.ch/organization/wastewater>`_, such as `aerobic granular sludge model <https://www.eawag.ch/en/department/eng/projects/abwasser/ags-aerobic-granular-slugde-model/>`_ (requires SUMO, includes R scripts for analysis/plotting and Python script for repetitive SUMO runs).
-#. Eawag `technology appropriateness assessment (TechAppA) model <https://github.com/Eawag-SWW/TechAppA>`_ for the quantification of the appropriateness of technologies (techs) in a given context (case) considering uncertainties
-#. Eawag `SWMM-HEAT model <https://github.com/Eawag-SWW/EAWAG-SWMM-HEAT>`_ for simulation of heat- and hydraulic processes in sewers.
+#. `Eawag <https://www.eawag.ch/en/>`_ `wastewater models <https://opendata.eawag.ch/organization/wastewater>`_, such as `aerobic granular sludge model <https://www.eawag.ch/en/department/eng/projects/abwasser/ags-aerobic-granular-slugde-model/>`_ (requires SUMO, includes R scripts for analysis/plotting and Python script for repetitive SUMO runs).
+#. `Eawag <https://www.eawag.ch/en/>`_ `technology appropriateness assessment (TechAppA) model <https://github.com/Eawag-SWW/TechAppA>`_ for the quantification of the appropriateness of technologies (techs) in a given context (case) considering uncertainties
+#. `Eawag <https://www.eawag.ch/en/>`_ `SWMM-HEAT model <https://github.com/Eawag-SWW/EAWAG-SWMM-HEAT>`_ for simulation of heat- and hydraulic processes in sewers.
+#. `BIOMATH at Ghent University <https://biomath.ugent.be>`_'s `GitHub <https://github.com/UGentBiomath>`_ page.
 
 
 Energy/Chemical Engineering
@@ -39,3 +40,11 @@ Other Curated Lists
 	
 #. `Open Sustainable Technology <https://github.com/protontypes/open-sustainable-technology>`_
 #. `Awesome Python Data Science <https://github.com/thomasjpfan/awesome-python-data-science>`_
+
+
+Databases
+---------
+#. U.S. `Federal LCA Commons <https://www.lcacommons.gov>`_, a central point of access to a collection of data repositories for use in LCA.
+#. `Data.gov <https://www.data.gov>`_: home of the U.S. Government’s open data.
+#. `Science.gov <https://www.science.gov>`_, gateway to U.S. government science information.
+#. `Catalyst Property Database <https://cpd.chemcatbio.org>`_, currently contains DFT-computed adsorption energies for surface species in catalytic reactions. It is designed to reduce the time required to perform literature searches on previously computed catalytic pathways and intermediates by providing data in a central, searchable location.
