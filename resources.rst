@@ -23,6 +23,7 @@ Water/wastewater/sanitation
 #. `Eawag <https://www.eawag.ch/en/>`_ `technology appropriateness assessment (TechAppA) model <https://github.com/Eawag-SWW/TechAppA>`_ for the quantification of the appropriateness of technologies (techs) in a given context (case) considering uncertainties
 #. `Eawag <https://www.eawag.ch/en/>`_ `SWMM-HEAT model <https://github.com/Eawag-SWW/EAWAG-SWMM-HEAT>`_ for simulation of heat- and hydraulic processes in sewers.
 #. `BIOMATH at Ghent University <https://biomath.ugent.be>`_'s `GitHub <https://github.com/UGentBiomath>`_ page.
+#. `Water Technoeconomic Assessment Pipe-Parity Platform (WaterTAP3) <https://github.com/NREL/WaterTAP3>`_ developed under the National Alliance for Water Innovation (NAWI), currently focused on desalination.
 
 
 Energy/Chemical Engineering
@@ -31,8 +32,8 @@ Energy/Chemical Engineering
 #. `Waste-to-Energy System Simulation (WESyS) Model <https://github.com/NREL/WESyS-Model>`_
 
 
-Other Curated Lists
--------------------
+Curated Lists
+-------------
 #. `Industrial Ecology Dashborad <https://github.com/IndEcol/Dashboard>`_, the Dashboard includes some life cycle assessment (LCA) repositories, but some more LCA-focused ones:
 
 	#. `calculator <https://github.com/romainsacchi/carculator>`_ for prospective environmental and economic life cycle assessment of vehicles
@@ -42,8 +43,40 @@ Other Curated Lists
 #. `Awesome Python Data Science <https://github.com/thomasjpfan/awesome-python-data-science>`_
 
 
+Others
+------
+#. `Statistical Climate Forecasting Integrated for Civil and Environmental Engineering <https://github.com/yuchuan-lai/scifi>`_ (in R)
+
+
+
 Databases
 ---------
+#. `Our World in Data <https://ourworldindata.org/>`_, data sources on many topics.
+#. Climate data:
+
+	# `GCM <https://www.ipcc-data.org/guidelines/pages/gcm_guide.html>`_ (general circulation models) projection results:
+
+		#. `KNMI Climate Explorer <https://climexp.knmi.nl/start.cgi>`_
+		#. `Earth System Grid Federation data <https://esgf-node.llnl.gov/projects/esgf-llnl/>`_
+
+	#. Statistically downscaled GCM projections:
+
+		#. `Localized constructed analogs <http://loca.ucsd.edu/>`_(LOCA), CMIP5 (coupled model intercomparison project)
+		#. `Multivariate adaptive constructed analogs <http://www.climatologylab.org/maca.html>`_ (MACA)-downscaled
+		#. `Downscaled CMIP3 and CMIP5 climate and hydrology projections <https://gdo-dcp.ucllnl.org/downscaled_cmip_projections/dcpInterface.html>`_, multiple methods
+
+	#. Dynamically downscaled GCM projections (more tools can be found at the `climate data gateway at National Center for Atmospheric Research <https://earthsystemgrid.org/>`_, NCAR):
+
+		#. `North America Coordinated Regional Downscaling Experiment <https://earthsystemgrid.org/search/cordexsearch.html>`_ (NA-CORDEX)
+		#. `North American Regional Climate Change Assessment Program <http://www.narccap.ucar.edu/>`_ (NARCCAP)
+
+	#. Historical observations:
+		
+		#. `Global historical climatological network <http://scacis.rcc-acis.org/>`_
+		#. `PRISM climate group <https://prism.oregonstate.edu/>`_ (parameter elevation regression on independent slopes model)
+		#. `Climate at a glance <https://www.ncdc.noaa.gov/cag/>`_
+		#. `Historical temperature and precipitation data for the U.S. cities <https://github.com/yuchuan-lai/Historical-City-ClimData>`_
+
 #. U.S. `Federal LCA Commons <https://www.lcacommons.gov>`_, a central point of access to a collection of data repositories for use in LCA.
 #. `Data.gov <https://www.data.gov>`_: home of the U.S. Government’s open data.
 #. `Science.gov <https://www.science.gov>`_, gateway to U.S. government science information.
