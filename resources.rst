@@ -77,6 +77,7 @@ Databases
 		#. `Climate at a glance <https://www.ncdc.noaa.gov/cag/>`_
 		#. `Historical temperature and precipitation data for the U.S. cities <https://github.com/yuchuan-lai/Historical-City-ClimData>`_
 
+#. `Drinking water treatability database <https://tdb.epa.gov/tdb/home>`_ by U.S. EPA.
 #. U.S. `Federal LCA Commons <https://www.lcacommons.gov>`_, a central point of access to a collection of data repositories for use in LCA.
 #. `Data.gov <https://www.data.gov>`_: home of the U.S. Government’s open data.
 #. `Science.gov <https://www.science.gov>`_, gateway to U.S. government science information.
