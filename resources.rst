@@ -23,7 +23,7 @@ Water/wastewater/sanitation
 #. `Eawag <https://www.eawag.ch/en/>`_ `technology appropriateness assessment (TechAppA) model <https://github.com/Eawag-SWW/TechAppA>`_ for the quantification of the appropriateness of technologies (techs) in a given context (case) considering uncertainties
 #. `Eawag <https://www.eawag.ch/en/>`_ `SWMM-HEAT model <https://github.com/Eawag-SWW/EAWAG-SWMM-HEAT>`_ for simulation of heat- and hydraulic processes in sewers.
 #. `BIOMATH at Ghent University <https://biomath.ugent.be>`_'s `GitHub <https://github.com/UGentBiomath>`_ page.
-#. `Water Technoeconomic Assessment Pipe-Parity Platform (WaterTAP3) <https://github.com/NREL/WaterTAP3>`_ developed under the National Alliance for Water Innovation (NAWI), currently focused on desalination.
+#. `Water Technoeconomic Assessment Pipe-Parity Platform (WaterTAP3) <https://github.com/watertap-org/watertap>`_ developed under the National Alliance for Water Innovation (NAWI), currently focused on desalination.
 
 
 Energy/Chemical Engineering
