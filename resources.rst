@@ -61,7 +61,7 @@ Databases
 
 	#. Statistically downscaled GCM projections:
 
-		#. `Localized constructed analogs <http://loca.ucsd.edu/>`_(LOCA), CMIP5 (coupled model intercomparison project)
+		#. `Localized constructed analogs <http://loca.ucsd.edu/>`_ (LOCA), CMIP5 (coupled model intercomparison project)
 		#. `Multivariate adaptive constructed analogs <http://www.climatologylab.org/maca.html>`_ (MACA)-downscaled
 		#. `Downscaled CMIP3 and CMIP5 climate and hydrology projections <https://gdo-dcp.ucllnl.org/downscaled_cmip_projections/dcpInterface.html>`_, multiple methods
 
