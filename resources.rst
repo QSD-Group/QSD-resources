@@ -54,7 +54,7 @@ Databases
 #. `Our World in Data <https://ourworldindata.org/>`_, data sources on many topics.
 #. Climate data:
 
-	# `GCM <https://www.ipcc-data.org/guidelines/pages/gcm_guide.html>`_ (general circulation models) projection results:
+	#. `GCM <https://www.ipcc-data.org/guidelines/pages/gcm_guide.html>`_ (general circulation models) projection results:
 
 		#. `KNMI Climate Explorer <https://climexp.knmi.nl/start.cgi>`_
 		#. `Earth System Grid Federation data <https://esgf-node.llnl.gov/projects/esgf-llnl/>`_
