@@ -4,7 +4,7 @@ QSD-resources: Resources for quantitative sustainable design (QSD)
 
 Note
 ----
-Contents in this repository has been moved to the `QSDedu <https://github.com/QSD-Group/QSDedu>`_ repository.
+Contents in this repository have been moved to the `QSDedu <https://github.com/QSD-Group/QSDedu>`_ repository.
 
 What's here?
 ------------
